@@ -1,5 +1,5 @@
 Esta versão é um clone de https://github.com/ignitio/Programando_em_R
-O propósito é a utilização para testes.
+com o propósito de utilização para testes.
 
 # Programando em R 
 
