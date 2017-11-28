@@ -222,7 +222,7 @@
   Hint: Se seu ambiente não suportar a facilidade de utilizar a seta para cima, apenas digite o comando correto e siga em frente.
 
 - Class: text
-  Output: Finalmente, vamos fingir que você gostaria de ver o conteúdo de uma vaiável que você criou anteriormente, mas não consegue lembra se o nome era my_div ou myDiv. Você poderia tentar os dois e ver qual funciona, ou...
+  Output: Finalmente, vamos fingir que você gostaria de ver o conteúdo de uma variável que você criou anteriormente, mas não consegue lembra se o nome era my_div ou myDiv. Você poderia tentar os dois e ver qual funciona, ou...
 
 - Class: cmd_question
   Output: Você pode digitar as duas primeiras letras do nome da variável, e então pressionar a tecla Tab (possívelmente mais de uma vez). A maioria dos ambientes de programação proverá uma lista de variáveis criadas por você cujo nome se inicia com 'my'. Isto é denominado auto-completar e pode ser bem útil quando você tem muitas variáveis em sua área de trabalho. Faça uma tentativa. (Se o auto-completar não funcionar para você, apenas digite my_div e pressione Enter.)
